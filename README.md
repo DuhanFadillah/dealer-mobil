@@ -1,2 +1,2 @@
 # dealer-mobil
-website tentang daeler mobil
+website tentang dealer mobil
